@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bielkuhn
+- 👀 I’m interested in Computer Science, Machine Learning and Process Automation
+- 🌱 I’m currently learning JavaScript, Python and Haskell
+- 💞️ I’m looking to collaborate on a world with less energy waste with general process
+- 📫 How to reach me @bielkuhn_ on Instagram and gabrielckuhn@gmail.com
